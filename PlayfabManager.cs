@@ -13,7 +13,8 @@ using PlayFab.GroupsModels;
 using PlayFab.DataModels;
 using PlayFab.ProfilesModels;
 
-
+// Link para download do SDK e Editor Extenxion https://github.com/PlayFab/UnitySDK
+// Link Site Playfab https://developer.playfab.com/
 public class PlayfabManager : MonoBehaviour
 {
     public static PlayfabManager instance;
